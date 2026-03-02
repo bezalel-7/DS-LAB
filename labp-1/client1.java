@@ -14,3 +14,5 @@ public class client1 {
 
     }
 }
+
+scale-cds://65cbc42b32ffab95dd54b864/EMUfpM1Dnu82fmc#s3/scale-cds-public-us-west-2
